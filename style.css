@@ -1,0 +1,25 @@
+#board {
+  margin-top: 10px;
+}
+
+.box {
+  height: 150px;
+}
+
+.card {
+  border-radius: 5px;
+  border: 1px solid black;
+  margin: 1px;
+  height: 125px;
+  line-height: 125px;
+}
+
+.card.face-down {
+	color: white;
+}
+
+.card.matched {
+	background-color: gold;
+}
+
+
