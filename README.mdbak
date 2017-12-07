@@ -8,7 +8,7 @@ This week, we've been learning about working with conditionals and loops, as wel
 For your first weekend lab, we'll be making a Memory game using your knowledge and skills from this week.
 
 ## Minimum Requirements  
-* The Memory game board should have a four by four grid of cards (so, 16 cards total). The cards should all start face DOCTORwn.   
+* The Memory game board should have a four by four grid of cards (so, 16 cards total). The cards should all start face down.   
 * A user should be able to click on a card to "turn it over" and see its front side.  
 * The user should only be able to have two cards turned over at once.  
 * If the user turns over two matching cards, the cards should stay face up for the rest of the game.   
